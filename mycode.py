@@ -2,11 +2,8 @@ import numpy as np
 
 print 'Hello world'
 
-
 print 'extra text'
-hoi
 
+print 'Conflict'
 
-
-
-
+print 'hoi'
